@@ -7,6 +7,9 @@
 *.pm.tdy
 *.bs
 
+# OEIS b-files
+bfiles/
+
 # Devel::Cover
 cover_db/
 
