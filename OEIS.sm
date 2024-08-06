@@ -8,20 +8,6 @@
 # Check and use formulas defined in terms of OEIS sequences.
 
 var aliases = Hash(
-    arccos => 'acos',
-    arcsin => 'asin',
-    arctan => 'atan',
-    arccsc => 'acsc',
-    arcsec => 'asec',
-    arccot => 'acot',
-
-    arccosh => 'acosh',
-    arcsinh => 'asinh',
-    arctanh => 'atanh',
-    arccsch => 'acsch',
-    arcsech => 'asech',
-    arccoth => 'acoth',
-
     BernoulliB => 'bernoulli',
 )
 
