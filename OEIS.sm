@@ -8,7 +8,8 @@
 # Check and use formulas defined in terms of OEIS sequences.
 
 var aliases = Hash(
-    BernoulliB => 'bernoulli',
+    # Method aliases to be added here as:
+    #   alias => "method_name",
 )
 
 aliases.each {|k,v|

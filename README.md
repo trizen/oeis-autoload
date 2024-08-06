@@ -1,6 +1,6 @@
 # oeis-autoload
 
-**OEIS autoload** is a [Sidef](https://github.com/trizen) command-line tool and a library that implements support for using [OEIS](https://oeis.org) sequences as functions.
+**OEIS autoload** is a [Sidef](https://github.com/trizen/sidef) command-line tool and a library that implements support for using [OEIS](https://oeis.org) sequences as functions.
 
 Usage example:
 
